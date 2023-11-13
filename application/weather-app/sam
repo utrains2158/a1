@@ -1,0 +1,10 @@
+  - docker build -t samuel2158/sixfigure-redis:develop .
+   * docker push samuel2158/sixfigure-redis:develop 
+  - docker build -t samuel2158/sixfigure-db:develop .
+   * docker push samuel2158/sixfigure-db:develop
+  - docker build -t samuel2158/sixfigure-ui:develop .
+   * docker push samuel2158/sixfigure-ui:develop
+  - docker build -t samuel2158/sixfigure-auth:develop .
+   * docker push samuel2158/sixfigure-auth:develop
+  - docker build -t samuel2158/sixfigure-weather:develop .
+   * docker push samuel2158/sixfigure-weather:develop
