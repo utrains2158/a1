@@ -7,4 +7,4 @@
   - docker build -t samuel2158/sixfigure-auth:develop .
    * docker push samuel2158/sixfigure-auth:develop
   - docker build -t samuel2158/sixfigure-weather:develop .
-   * docker push samuel2158/sixfigure-weather:develop
+    docker push samuel2158/sixfigure-weather:develop
